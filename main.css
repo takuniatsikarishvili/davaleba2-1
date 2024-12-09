@@ -1,13 +1,7 @@
 #satauri{
+    text-align: center;
     color: #000;
     font-size: 72px;
-    font-style: normal;
-    font-weight: 700;
-    display: blok-inline;
-    padding: 24px 496px 119px 187px;
-    width: 1237px;
-    height: 86px;
-    margin: o auto;
 }
 #surati{
     max-width: 568px;
@@ -52,5 +46,8 @@
 
 }
 #ool{
-    margin: 55px 1165px 55px 187px
+
+}
+#mesameatauri{
+    color: #414651; 
 }
