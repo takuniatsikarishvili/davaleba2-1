@@ -11,12 +11,15 @@
 
 }
 #meoresatauri{
+    text-align: center;
     color: #000;
-    font-size: 72px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 700;
-    text-align: center;
-    margin: o auto;
+    line-height: normal;
+    max-width: 568px;
+    width: 100%;
+    
 }
 #texti{
     color: #414651;
@@ -25,6 +28,8 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
+    max-width: 568px;
+    width: 100%;
 }
 #sia{
     color: #155EEF;
@@ -32,6 +37,8 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
+    max-width: 568px;
+    width: 100%;
 
 }
 #read{
@@ -40,14 +47,140 @@
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
+    width: 113px;
+    display: flex;
     padding: 12px 32px;
     align-items: center;
     border: 2px solid #CEA201;
 
 }
 #ool{
+    margin-left: 55px;
+    
 
 }
+    
+
 #mesameatauri{
-    color: #414651; 
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
 }
+#meoretexti{
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 772px;
+    width: 100%;
+
+}
+#mwvane{
+    color: #00C76E;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+#meoresia{
+    color: #FF5DA3;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 187px;
+    
+}
+#oolmeore{
+    margin-left: 55px;
+}
+
+    #meoresurati{
+        max-width: 200px;
+        padding-bottom: 24px;
+    }
+    #pepela{
+        100%
+    }
+    #charcho{
+        border: 6px solid #C11574;
+        background: #FFDEF0;
+    }
+    #qvesatauri{
+        color: #414651;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 24px;
+        padding: 16px;
+        display: flex;
+    
+    }
+    
+    #wertilierti{
+        background: #000;
+        border-radius: 90px;
+        width: 16px;
+        vertical-align: middle;
+        display: inline-block;
+        padding-top: 16px;
+    }
+    #pirvelitexti{
+        vertical-align: middle;
+        display: inline-block;
+        color: #C27512;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    #mesamesurati{
+        max-width: 298.012px;
+        padding-top: 24px;
+    }
+    #tevzi{
+        100%
+    }
+    #wertiliori{
+        background: #000;
+        border-radius: 90px;
+        width: 16px;
+        vertical-align: middle;
+        display: inline-block;
+        padding-top: 16px;
+    }
+    #meorep{
+        vertical-align: middle;
+        display: inline-block;
+        color: #C27512;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    #wertilisami{
+        background: #000;
+        border-radius: 90px;
+        width: 16px;
+        vertical-align: middle;
+        display: inline-block;
+        padding-top: 16px;
+    }
+    #mesamep{
+        vertical-align: middle;
+        display: inline-block;
+        color: #C27512;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    #box{
+        max-width: 690px;
+        width: 100%;
+    
+    }
+    #charcho{
+        padding: 16px;
+    }
